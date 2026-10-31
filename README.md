@@ -44,7 +44,7 @@
 
 <p>
   Visit the
-  <a href="https://github.com/">GitHub Releases</a>
+  <a href="https://github.com/arunavaghosh07/pokemon-silver-perfect-randomizer/releases">GitHub Releases</a>
   section to find available versions and patches.
 </p>
 
